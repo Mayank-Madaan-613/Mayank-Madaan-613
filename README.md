@@ -14,17 +14,19 @@
   <li>⚙️Building: <strong>Projects in various Fields</strong></li>
 </ul>
 
-<!--
-**Mayank-Madaan-613/Mayank-Madaan-613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Languages & Tools</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,fastapi,git,gcp,linux,vscode&theme=light">
+</div>
+<h1>GitHub Stats</h1>
+<div align="center">
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayank-Madaan-613&show_icons=true&theme=light" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mayank-Madaan-613&theme=light" width="48%"/>
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayank-Madaan-613&layout=compact&theme=light" width="48%"/>
+</div>
+<h1>Contact Me</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mayank-madaan-dev/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
+</div>
