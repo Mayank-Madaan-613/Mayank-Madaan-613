@@ -28,5 +28,5 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/mayank-madaan-dev/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=mmadaan340@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
 </div>
