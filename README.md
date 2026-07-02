@@ -10,13 +10,13 @@
   <li>🔭Exploring: <strong>Cybersecurity, Machine Learning, Full Stack Development</strong></li>
   <li>📍Based in: <strong>New Delhi</strong></li>
   <li>💼Looking for:<strong>Internships and Junior Developer Roles</strong></li>
-  <li>🤝My Stack: <strong>Python, Java, FastAPI, MySQL, HTML5, CSS3, JavaScript</strong></li>
+  <li>🤝My Stack: <strong>Python, Java, FastAPI, MySQL, HTML5, CSS3, JavaScript, CPP</strong></li>
   <li>⚙️Building: <strong>Projects in various Fields</strong></li>
 </ul>
 
 <h1>Languages & Tools</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,fastapi,git,gcp,linux,vscode&theme=light">
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,fastapi,git,gcp,linux,vscode,cpp,vercel&theme=light">
 </div>
 <h1>GitHub Stats</h1>
 <div align="center">
